@@ -1,0 +1,15 @@
+{
+  "title": "selection",
+  "name": "selection",
+  "version": "0.0.1",
+  "description": "selection addon",
+  "main": "index.js",
+  "author": "osho",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "mit",
+  "keywords": [
+    "jetpack"
+  ]
+}
